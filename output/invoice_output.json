@@ -1,0 +1,16 @@
+{
+    "Document Type": "Invoice",
+    "Vendor Name": "MetroLine Exim Services",
+    "Invoice Number": "M/FDL/2324/22788",
+    "Invoice Date": "2026-01-19",
+    "Line Items": [
+        "Handling Charges -",
+        "Handling Charges -",
+        "Lift-On / Lift-Off",
+        "Documentation Charges",
+        "Seal Charges",
+        "Weighment Charges",
+        "Scanning Charges",
+        "EDI / IT Charges"
+    ]
+}
